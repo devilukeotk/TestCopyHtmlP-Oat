@@ -1,0 +1,155 @@
+.header1{
+  background-color: #ABE9F7;
+  width: 100%;
+  height: 55px;
+  position:fixed;
+  top:0;
+  padding: 15px;
+  margin:-20px 0px 0px -20px;
+  box-shadow: 0px 0px 2px gray;
+}
+.header2{
+  position: absolute;
+  left:0;
+  margin: 15px 0px 0px 150px;
+}
+.header3{
+  position: absolute;
+  right:0;
+  margin: -5px 20px 0px 0px;
+}
+li{
+  list-style-type: none;
+  float: left;
+  margin: 15px 5px;
+  font-family: tahoma;
+}
+.line{
+  margin: -10px 0px 0px;
+}
+.picPro{
+  border-radius: 50%;
+  margin: 4px 100px 0px 0px;
+}
+.picPro2{
+  margin-top:60px;
+  border-radius: 50%;
+  position: absolute;
+}
+.pro1{
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin-left:200px;
+}
+.pro2{
+  position: absolute;
+  float:left;
+  margin-left: 100px;
+  margin-top:-20px
+  height: auto;
+}
+.text1{
+  margin-top: 40px;
+  font-style: tahoma;
+  font-size: 30px;
+  color: #56443A;
+  width: 70%;
+}
+.text2{
+  margin-top:-10px;
+  margin-left: 5px;
+}
+span.textLong{
+  padding:5px;
+  color: rgb(69, 139, 155);
+  font-style: tahoma;
+}
+.follow{
+  background: green;
+  color: white;
+  border-radius: 2px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: green;
+  width: 160px;
+  padding: 7px;
+  font-size: 15px;
+  margin-top: 10px;
+  position: absolute;
+  margin-top: 20px;
+  margin-left:-330px
+}
+.box{
+  position:relative;;
+  margin: 250px 0px 0px 190px;
+  width: 200px;
+  height: 336px;
+  padding: 10px;
+  box-shadow: 1px 1px 1px 1px gray;
+  font-size: 13px;
+  float: left;
+}
+.boxPro{
+  border-radius: 50%;
+  position: absolute;
+}
+.text3{
+  position: absolute;
+  float: left;
+  margin:2px 0px 0px 45px;
+  font-style: tahoma;
+}
+.picLast{
+  position: absolute;
+  margin:0px 0px 0px -22px;
+}
+.text4{
+  position: absolute;
+  margin:215px 0px 0px -42px;
+  width: 200px;
+  font-style: tahoma;
+}
+.heart{
+  position: absolute;
+  margin: 260px 0px 0px -35px;
+}
+.helpHeader{
+  margin-top: 50px;
+}
+html, body {
+  height: 100%;
+  overflow-x: hidden;
+}
+.text5{
+  position: absolute;
+  margin: 260px 0px 0px -15px;
+  font-style: tahoma;
+}
+.mapMarker{
+  position: absolute;
+  margin: 260px 0px 0px 20px;
+}
+.text6{
+  position: absolute;
+  font-style: tahoma;
+  margin: 260px 0px 0px 35px;
+}
+.box2{
+  position:relative;;
+  margin: 250px 0px 0px 25px;
+  width: 200px;
+  height: 336px;
+  padding: 10px;
+  box-shadow: 1px 1px 1px 1px gray;
+  font-size: 13px;
+  float: left;
+}
+.plusPic{
+  position: absolute;
+  margin: 140px 0px 0px 75px;
+}
+.text7{
+  position: absolute;
+  margin: 190px 0px 0px 45px;
+}
